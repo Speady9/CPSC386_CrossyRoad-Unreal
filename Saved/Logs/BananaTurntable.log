@@ -1,0 +1,1198 @@
+﻿Log file open, 11/22/19 09:16:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BananaTurntable
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.100849
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=jaayreal -epicuserid=be5be11e518d43ac895f587ad6d590fb -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Engine.ini]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Engine.ini]
+[2019.11.22-17.16.09:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Engine.ini]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Engine.ini]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.22-17.16.09:726][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.22-17.16.09:727][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.22-17.16.09:727][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.22-17.16.09:727][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.22-17.16.09:727][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.22-17.16.09:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Engine.ini]
+[2019.11.22-17.16.09:727][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Engine.ini]
+[2019.11.22-17.16.09:729][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:729][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.22-17.16.09:729][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.22-17.16.09:729][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:729][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.22-17.16.09:729][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:729][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.22-17.16.09:729][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.22-17.16.09:729][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.22-17.16.09:729][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.22-17.16.09:730][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:730][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.22-17.16.09:731][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.22-17.16.09:731][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.22-17.16.09:731][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.22-17.16.09:735][  0]LogHAL: Display: Platform has ~ 8 GB [8511414272 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.22-17.16.09:735][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.22-17.16.09:735][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.22-17.16.09:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.22-17.16.09:736][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Scalability.ini]
+[2019.11.22-17.16.09:736][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.22-17.16.09:737][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.22-17.16.09:737][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.22-17.16.09:737][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.22-17.16.09:737][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.22-17.16.09:737][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Config/Windows/Engine.ini]
+[2019.11.22-17.16.09:737][  0]LogInit: Computer: FLAT-ZONE
+[2019.11.22-17.16.09:737][  0]LogInit: User: oliva
+[2019.11.22-17.16.09:737][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.11.22-17.16.09:737][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.22-17.16.09:737][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.11.22-17.16.09:737][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.22-17.16.09:737][  0]LogMemory: Process Physical Memory: 99.93 MB used, 99.94 MB peak
+[2019.11.22-17.16.09:737][  0]LogMemory: Process Virtual Memory: 87.78 MB used, 87.78 MB peak
+[2019.11.22-17.16.09:737][  0]LogMemory: Physical Memory: 6929.68 MB used,  1187.43 MB free, 8117.12 MB total
+[2019.11.22-17.16.09:737][  0]LogMemory: Virtual Memory: 4639.48 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.11.22-17.16.09:740][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.22-17.16.09:766][  0]LogInit: Using OS detected language (en-US).
+[2019.11.22-17.16.09:766][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.22-17.16.09:767][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.22-17.16.09:998][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.22-17.16.10:068][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.22-17.16.10:068][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.22-17.16.10:381][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.22-17.16.10:381][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.22-17.16.10:416][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.11.22-17.16.10:416][  0]LogD3D11RHI:       128/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.11.22-17.16.10:420][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.22-17.16.10:420][  0]LogD3D11RHI:       0/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.22-17.16.10:420][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.22-17.16.10:430][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.22-17.16.10:430][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.22-17.16.10:430][  0]LogWindows: EnumDisplayDevices:
+[2019.11.22-17.16.10:431][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.11.22-17.16.10:431][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.11.22-17.16.10:432][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.11.22-17.16.10:432][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.11.22-17.16.10:432][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.11.22-17.16.10:432][  0]LogD3D11RHI:   Driver Version: 25.20.100.6472 (internal:25.20.100.6472, unified:25.20.100.6472)
+[2019.11.22-17.16.10:432][  0]LogD3D11RHI:      Driver Date: 12-25-2018
+[2019.11.22-17.16.10:432][  0]LogRHI: Texture pool is 1510 MB (70% of 2157 MB)
+[2019.11.22-17.16.10:474][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.11.22-17.16.10:474][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.22-17.16.10:494][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.11.22-17.16.11:230][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.22-17.16.11:243][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.22-17.16.11:257][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.22-17.16.11:270][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.22-17.16.11:289][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.22-17.16.11:300][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.22-17.16.11:311][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.22-17.16.11:321][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.22-17.16.11:328][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.22-17.16.11:384][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.22-17.16.11:384][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.22-17.16.11:384][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.22-17.16.11:384][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.22-17.16.11:384][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.22-17.16.11:384][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.22-17.16.11:384][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.22-17.16.11:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.22-17.16.11:387][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.22-17.16.11:423][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.22-17.16.11:423][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.22-17.16.11:454][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.22-17.16.11:454][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.22-17.16.11:478][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.22-17.16.11:497][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.22-17.16.11:519][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.22-17.16.11:552][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.22-17.16.11:600][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.22-17.16.11:601][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.22-17.16.11:601][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.22-17.16.11:616][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.22-17.16.11:700][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Intermediate/Shaders/WorkingDirectory/17892/).
+[2019.11.22-17.16.11:700][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/oliva/AppData/Local/Temp/UnrealShaderWorkingDir/167B8D874639F2520CEF5CA75C08BA5E/'.
+[2019.11.22-17.16.11:703][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.22-17.16.11:703][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.22-17.16.11:703][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.22-17.16.12:510][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.22-17.16.12:589][  0]LogDerivedDataCache: Loaded boot cache 0.08s 73MB C:/Users/oliva/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.22-17.16.12:589][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/oliva/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.22-17.16.12:589][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.22-17.16.12:589][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.22-17.16.12:589][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.22-17.16.12:589][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.22-17.16.12:605][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.22-17.16.12:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.22-17.16.12:605][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.22-17.16.12:606][  0]LogDerivedDataCache: Using Local data cache path C:/Users/oliva/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.22-17.16.12:607][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.22-17.16.12:607][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.22-17.16.12:651][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.22-17.16.12:655][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.22-17.16.12:656][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.22-17.16.12:736][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2019.11.22-17.16.13:225][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.22-17.16.13:467][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.22-17.16.13:468][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.22-17.16.13:468][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.22-17.16.13:468][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.22-17.16.13:468][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.22-17.16.13:481][  0]LogNetVersion: BananaTurntable 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 261190130)
+[2019.11.22-17.16.14:288][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.107663 seconds
+[2019.11.22-17.16.14:299][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.22-17.16.14:299][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.22-17.16.14:299][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.22-17.16.15:672][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.22-17.16.15:676][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.22-17.16.15:760][  0]SourceControl: Source control is disabled
+[2019.11.22-17.16.15:760][  0]SourceControl: Source control is disabled
+[2019.11.22-17.16.15:763][  0]SourceControl: Source control is disabled
+[2019.11.22-17.16.15:764][  0]SourceControl: Source control is disabled
+[2019.11.22-17.16.15:776][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.22-17.16.15:778][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.22-17.16.15:891][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.22-17.16.16:032][  0]LogOcInput: OculusInput pre-init called
+[2019.11.22-17.16.16:041][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.22-17.16.16:041][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.22-17.16.16:144][  0]LogEngine: Initializing Engine...
+[2019.11.22-17.16.16:145][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.22-17.16.16:146][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.22-17.16.16:456][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.22-17.16.16:483][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.22-17.16.16:700][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-17.16.16:902][  0]LogInit: FAudioDevice initialized.
+[2019.11.22-17.16.16:903][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.22-17.16.17:023][  0]LogDerivedDataCache: Saved boot cache 0.12s 73MB C:/Users/oliva/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.22-17.16.17:035][  0]LogInit: Texture streaming: Enabled
+[2019.11.22-17.16.17:094][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.22-17.16.17:211][  0]LogInit: Transaction tracking system initialized
+[2019.11.22-17.16.17:279][  0]BlueprintLog: New page: Editor Load
+[2019.11.22-17.16.17:437][  0]LocalizationService: Localization service is disabled
+[2019.11.22-17.16.17:535][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.22-17.16.17:536][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.22-17.16.17:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/' took 0.01s
+[2019.11.22-17.16.17:819][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.22-17.16.17:819][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.22-17.16.18:172][  0]SourceControl: Source control is disabled
+[2019.11.22-17.16.18:173][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.22-17.16.18:173][  0]LightingResults: New page: Lighting Build
+[2019.11.22-17.16.18:180][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-17.16.18:181][  0]MapCheck: New page: Map Check
+[2019.11.22-17.16.18:181][  0]LightingResults: New page: Lighting Build
+[2019.11.22-17.16.18:215][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.11.22-17.16.18:373][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.22-17.16.18:382][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.22-17.16.18:415][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.22-17.16.18:415][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.22-17.16.18:415][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2019.11.22-17.16.18:415][  0]LogFileHelpers: Loading map 'Template_Default' took 0.243
+[2019.11.22-17.16.18:777][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-17.16.18:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-17.16.18:850][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-17.16.18:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-17.16.18:930][  0]LogCollectionManager: Loaded 0 collections in 0.004621 seconds
+[2019.11.22-17.16.18:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Collections/' took 0.00s
+[2019.11.22-17.16.18:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/Developers/oliva/Collections/' took 0.00s
+[2019.11.22-17.16.18:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/Collections/' took 0.00s
+[2019.11.22-17.16.18:964][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.11.22-17.16.18:977][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2863 classes and 680 folders.
+[2019.11.22-17.16.18:995][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.22-17.16.19:610][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.11.22-17.16.19:643][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.11.22-17.16.20:085][  0]LogSlate: Took 0.000505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.22-17.16.20:094][  0]LogSlate: Took 0.000440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.22-17.16.20:134][  0]LogSlate: Took 0.017019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.22-17.16.20:531][  0]LogRenderer: Reallocating scene render targets to support 764x400 Format 10 NumSamples 1 (Frame:1).
+[2019.11.22-17.16.21:140][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.22-17.16.21:140][  0]LogLoad: (Engine Initialization) Total time: 13.29 seconds
+[2019.11.22-17.16.21:140][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.22-17.16.21:227][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.22-17.16.21:333][  1]LogAssetRegistry: Asset discovery search completed in 8.5977 seconds
+[2019.11.22-17.16.21:344][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.11.22-17.16.21:344][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2019.11.22-17.16.23:676][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.16.26:002][161]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.16.36:200][161]LogSlate: Window 'Save Level As' being destroyed
+[2019.11.22-17.16.36:301][161]LogSlate: Took 0.044212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.22-17.16.36:310][161]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.16.36:394][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.11.22-17.16.36:439][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.11.22-17.16.36:816][161]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/CrossyRoad23FEA71D42BFC0A98ED9EEBD1C8672A3.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/CrossyRoad.umap'
+[2019.11.22-17.16.36:935][161]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/CrossyRoad_BuiltDataCACD428F4D33C20F429C1482AD4560AE.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/CrossyRoad_BuiltData.uasset'
+[2019.11.22-17.16.36:951][161]LogFileHelpers: Saving map 'CrossyRoad' took 0.716
+[2019.11.22-17.16.36:953][161]Cmd: MAP LOAD FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/CrossyRoad.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.22-17.16.36:962][161]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.16.36:976][161]LightingResults: New page: Lighting Build
+[2019.11.22-17.16.36:978][161]LoadErrors: New page: Loading map: CrossyRoad.umap
+[2019.11.22-17.16.36:979][161]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-17.16.36:981][161]MapCheck: New page: Map Check
+[2019.11.22-17.16.36:981][161]LightingResults: New page: Lighting Build
+[2019.11.22-17.16.37:031][161]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2019.11.22-17.16.37:064][161]LogAIModule: Creating AISystem for world CrossyRoad
+[2019.11.22-17.16.37:209][161]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.22-17.16.37:269][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.11.22-17.16.37:353][161]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.22-17.16.37:354][161]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.429ms to complete.
+[2019.11.22-17.16.37:354][161]LogFileHelpers: Loading map 'CrossyRoad' took 0.403
+[2019.11.22-17.16.41:218][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-17.16.41:298][274]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-17.16.41:346][274]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel' has LevelScriptBlueprint '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel.CrossyRoad' with GeneratedClass '/Game/crossyroad/CrossyRoad.CrossyRoad_C' with ClassGeneratedBy '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel.CrossyRoad'
+[2019.11.22-17.16.41:347][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-17.16.41:349][274]PIE: New page: PIE session: CrossyRoad (Nov 22, 2019, 1:16:41 AM)
+[2019.11.22-17.16.41:351][274]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.22-17.16.41:354][274]LogPlayLevel: Creating play world package: /Game/crossyroad/UEDPIE_0_CrossyRoad
+[2019.11.22-17.16.41:361][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005900s)
+[2019.11.22-17.16.41:363][274]LogAIModule: Creating AISystem for world CrossyRoad
+[2019.11.22-17.16.41:364][274]LogPlayLevel: PIE: World Init took: (0.002334s)
+[2019.11.22-17.16.41:364][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/crossyroad/CrossyRoad.CrossyRoad to /Game/crossyroad/UEDPIE_0_CrossyRoad.CrossyRoad (0.009120s)
+[2019.11.22-17.16.41:405][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.11.22-17.16.41:417][274]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-17.16.41:455][274]LogInit: FAudioDevice initialized.
+[2019.11.22-17.16.41:481][274]LogLoad: Game class is 'GameModeBase'
+[2019.11.22-17.16.41:496][274]LogWorld: Bringing World /Game/crossyroad/UEDPIE_0_CrossyRoad.CrossyRoad up for play (max tick rate 60) at 2019.11.22-09.16.41
+[2019.11.22-17.16.41:499][274]LogWorld: Bringing up level for play took: 0.004992
+[2019.11.22-17.16.41:502][274]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.11.22-17.16.41:574][274]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2019.11.22-17.16.41:591][274]PIE: Play in editor start time for /Game/crossyroad/UEDPIE_0_CrossyRoad 0.744
+[2019.11.22-17.16.41:592][274]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel' has LevelScriptBlueprint '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel.CrossyRoad' with GeneratedClass '/Game/crossyroad/CrossyRoad.CrossyRoad_C' with ClassGeneratedBy '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel.CrossyRoad'
+[2019.11.22-17.16.45:429][390]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel' has LevelScriptBlueprint '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel.CrossyRoad' with GeneratedClass '/Game/crossyroad/CrossyRoad.CrossyRoad_C' with ClassGeneratedBy '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel.CrossyRoad'
+[2019.11.22-17.16.45:432][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-17.16.45:433][390]LogWorld: BeginTearingDown for /Game/crossyroad/UEDPIE_0_CrossyRoad
+[2019.11.22-17.16.45:433][390]LogWorld: UWorld::CleanupWorld for CrossyRoad, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-17.16.45:508][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-17.16.45:509][390]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel' has LevelScriptBlueprint '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel.CrossyRoad' with GeneratedClass '/Game/crossyroad/CrossyRoad.CrossyRoad_C' with ClassGeneratedBy '/Game/crossyroad/CrossyRoad.CrossyRoad:PersistentLevel.CrossyRoad'
+[2019.11.22-17.16.45:557][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-17.16.45:563][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.11.22-17.16.45:598][391]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.11.22-17.16.54:236][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-17.16.54:397][658]LogStaticMesh: Building static mesh Chicken...
+[2019.11.22-17.16.54:444][658]LogStaticMesh: Built static mesh [0.05s] /Game/crossyroad/Chicken.Chicken
+[2019.11.22-17.16.54:830][658]LogActorFactory: Actor Factory created Chicken
+[2019.11.22-17.16.55:321][664]LogActorFactory: Actor Factory created Chicken
+[2019.11.22-17.16.58:395][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-17.17.02:243][785]LogSlate: Took 0.031355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.22-17.17.32:688][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.22-17.22.25:687][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-17.22.27:403][545]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/crossyroad/Chicken.Chicken
+[2019.11.22-17.22.28:623][546]LogRenderer: Reallocating scene render targets to support 916x444 Format 10 NumSamples 1 (Frame:1).
+[2019.11.22-17.22.33:418][606]LogSlate: Window 'Chicken' being destroyed
+[2019.11.22-17.22.33:523][606]LogSlate: Window 'Chicken' being destroyed
+[2019.11.22-17.22.34:300][606]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-17.22.34:598][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-17.22.36:804][657]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.22-17.22.38:608][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-17.22.40:620][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-17.22.46:768][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-17.22.52:017][984]LogStaticMesh: Building static mesh car...
+[2019.11.22-17.22.52:110][984]LogStaticMesh: Built static mesh [0.09s] /Game/crossyroad/car.car
+[2019.11.22-17.22.52:700][994]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.22.55:118][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.22.55:155][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.22.55:254][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.22.55:303][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/car" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/car.uasset" SILENT=true
+[2019.11.22-17.22.55:359][ 35]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/car952A60714EF97EE41A42F49FEB8003F7.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/car.uasset'
+[2019.11.22-17.22.55:378][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/car" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/car.uasset" SILENT=true
+[2019.11.22-17.22.55:460][ 35]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/car08EB8C4E4D2ACAC4B766E2A7411482F9.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/car.uasset'
+[2019.11.22-17.22.55:504][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/car1" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/car1.uasset" SILENT=true
+[2019.11.22-17.22.55:563][ 35]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/car13550E78A488013C0B4A422AF1D58F065.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/car1.uasset'
+[2019.11.22-17.22.55:612][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/car1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/car1_Mat.uasset" SILENT=true
+[2019.11.22-17.22.55:635][ 35]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/car1_Mat349196304FD08549A8B30AAF9FC6BD57.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/car1_Mat.uasset'
+[2019.11.22-17.22.55:669][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/Chicken" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/Chicken.uasset" SILENT=true
+[2019.11.22-17.22.55:693][ 35]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Chicken08290B3D4071A6057EFEE8AC54CD9A78.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/Chicken.uasset'
+[2019.11.22-17.22.55:701][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/Chicken" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Chicken.uasset" SILENT=true
+[2019.11.22-17.22.55:722][ 35]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Chicken8EA2590A45D0F1E0D72B5F9282494C6E.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Chicken.uasset'
+[2019.11.22-17.22.55:732][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/Chicken1" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/Chicken1.uasset" SILENT=true
+[2019.11.22-17.22.55:744][ 35]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Chicken1F9A71551490E353EE31A9EA5C47538C8.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/Chicken1.uasset'
+[2019.11.22-17.22.55:782][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/chiken" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/chiken.uasset" SILENT=true
+[2019.11.22-17.22.55:815][ 35]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/chiken8C972F6D4BF21FD85B75F4B6B02C437E.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/chiken.uasset'
+[2019.11.22-17.22.55:838][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.22.56:278][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.22.56:329][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.11.22-17.22.56:355][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.22-17.22.56:379][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.11.22-17.22.56:399][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.22-17.22.56:430][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.22-17.22.56:452][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.22-17.22.56:462][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.22.56:471][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/chiken" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/chiken.uasset" SILENT=true
+[2019.11.22-17.22.56:486][ 35]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/chiken0A4CD1E745E01CE020C84FA6FE2274EF.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/chiken.uasset'
+[2019.11.22-17.22.58:106][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-17.23.03:552][212]LogStaticMesh: Building static mesh Crossy_Train...
+[2019.11.22-17.23.03:715][212]LogStaticMesh: Built static mesh [0.16s] /Game/crossyroad/Crossy_Train.Crossy_Train
+[2019.11.22-17.23.05:773][213]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.23.07:697][246]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.23.08:051][246]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.23.08:203][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Crossy_Train40ACEB7A42891A7C140E7EA0A6B198C6.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/Crossy_Train.uasset'
+[2019.11.22-17.23.08:217][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/Crossy_Train" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Crossy_Train.uasset" SILENT=true
+[2019.11.22-17.23.08:256][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Crossy_TrainC9D322DB4E277F67014BDC8FFF4E6E0D.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Crossy_Train.uasset'
+[2019.11.22-17.23.08:305][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/foodtruck" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/foodtruck.uasset" SILENT=true
+[2019.11.22-17.23.08:370][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/foodtruckE513D78C46DCC229FD4535A924FDCCFA.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/foodtruck.uasset'
+[2019.11.22-17.23.08:384][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/foodtruck" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/foodtruck.uasset" SILENT=true
+[2019.11.22-17.23.08:423][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/foodtruck314AC08D4731040CA7043295095F98FF.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/foodtruck.uasset'
+[2019.11.22-17.23.08:443][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/foodtruck1" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/foodtruck1.uasset" SILENT=true
+[2019.11.22-17.23.08:467][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/foodtruck194C214B54CE13403F45DD9AECBED9D5F.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/foodtruck1.uasset'
+[2019.11.22-17.23.08:585][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/foodtruck1_Mat425EB2C243FF375E2E8EBA9BAA9B2109.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/foodtruck1_Mat.uasset'
+[2019.11.22-17.23.08:648][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/grass" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/grass.uasset" SILENT=true
+[2019.11.22-17.23.08:701][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/grassDDC75F8E43A0F0F7AE031EBE969B0AD3.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/grass.uasset'
+[2019.11.22-17.23.08:714][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/grass" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/grass.uasset" SILENT=true
+[2019.11.22-17.23.08:750][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/grassC41BA956401ADA88F4E81EB4249C2894.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/grass.uasset'
+[2019.11.22-17.23.08:763][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/grass1" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/grass1.uasset" SILENT=true
+[2019.11.22-17.23.08:776][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/grass1B50C85DE47DA4A70A35347A9A965A6A9.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/grass1.uasset'
+[2019.11.22-17.23.08:815][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/grass1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/grass1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.08:843][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/grass1_MatF1FD859746FED9307012BFBB90C1F7CF.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/grass1_Mat.uasset'
+[2019.11.22-17.23.08:883][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/lilypad" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/lilypad.uasset" SILENT=true
+[2019.11.22-17.23.08:908][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/lilypad448E6D734C89D776B6A974B64E3F203F.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/lilypad.uasset'
+[2019.11.22-17.23.08:915][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/lilypad" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/lilypad.uasset" SILENT=true
+[2019.11.22-17.23.08:940][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/lilypad66F06289414741C231B399AB9596B320.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/lilypad.uasset'
+[2019.11.22-17.23.08:951][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/lilypad1" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/lilypad1.uasset" SILENT=true
+[2019.11.22-17.23.08:964][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/lilypad11BF4E07942F1FA03B42DBAA339E5DCF4.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/lilypad1.uasset'
+[2019.11.22-17.23.09:055][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/lilypad1_MatE4AB49064A1AC380C9B5FBB32973037F.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/lilypad1_Mat.uasset'
+[2019.11.22-17.23.09:078][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/lilypad1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/lilypad1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.09:112][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/lilypad1_Mat4D8CACC0491C52FA0CCD8CA8F90212F1.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/lilypad1_Mat.uasset'
+[2019.11.22-17.23.09:160][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/log" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/log.uasset" SILENT=true
+[2019.11.22-17.23.09:197][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/log95EB674B4DD5D0C230AE0F82BDF2B14F.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/log.uasset'
+[2019.11.22-17.23.09:211][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/log" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/log.uasset" SILENT=true
+[2019.11.22-17.23.09:239][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/log5396A3E140E0B11748794AAC39061A39.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/log.uasset'
+[2019.11.22-17.23.09:253][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/log1" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/log1.uasset" SILENT=true
+[2019.11.22-17.23.09:267][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/log186BED2DF4CDBB82911377B98C6815755.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/log1.uasset'
+[2019.11.22-17.23.09:313][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/log1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/log1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.09:336][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/log1_Mat445FF8AE45359F6A3DCCF183B27C6E71.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/log1_Mat.uasset'
+[2019.11.22-17.23.09:344][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/log1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/log1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.09:363][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/log1_Mat6E6671734F5DBA7EC86C33A8163A2FCE.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/log1_Mat.uasset'
+[2019.11.22-17.23.09:411][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/lowridercar" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/lowridercar.uasset" SILENT=true
+[2019.11.22-17.23.09:471][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/lowridercarCCB3698946EA669B2CFC86BF7D1D0E45.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/lowridercar.uasset'
+[2019.11.22-17.23.09:507][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/lowridercar120F892704F8B1A72F8B3E1934DE6602F.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/lowridercar1.uasset'
+[2019.11.22-17.23.09:560][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/railroad" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/railroad.uasset" SILENT=true
+[2019.11.22-17.23.09:613][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/railroadEDDB7E7F4B651DA0ECE06BBCE9A212C5.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/railroad.uasset'
+[2019.11.22-17.23.09:625][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/railroad" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/railroad.uasset" SILENT=true
+[2019.11.22-17.23.09:665][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/railroad1A97BF9649F2CD4652A6C6A85A0F4D00.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/railroad.uasset'
+[2019.11.22-17.23.09:680][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/railroad1" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/railroad1.uasset" SILENT=true
+[2019.11.22-17.23.09:701][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/railroad108D332EA422ABA242D0218ACA2C83023.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/railroad1.uasset'
+[2019.11.22-17.23.09:823][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/railroad1_MatD1F3E9A144D681C5B8DF5EAB761DFC27.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/railroad1_Mat.uasset'
+[2019.11.22-17.23.09:839][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/railroad1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/railroad1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.09:889][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/railroad1_Mat62DA124948597AF6823FB793A73762C8.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/railroad1_Mat.uasset'
+[2019.11.22-17.23.10:007][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/roadwithlines8743ADEB403287CF3809F18B286ACE3C.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/roadwithlines.uasset'
+[2019.11.22-17.23.10:026][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/roadwithlines" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/roadwithlines.uasset" SILENT=true
+[2019.11.22-17.23.10:081][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/roadwithlines7C3582144B8C02FDABF611B3A2428767.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/roadwithlines.uasset'
+[2019.11.22-17.23.10:139][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/roadwithlines1DD605F4F4C07905E5F4571BA77622D04.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/roadwithlines1.uasset'
+[2019.11.22-17.23.10:249][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/roadwithlines1_Mat801EF35B4EBEC5CCC09DFF8BCA5D3C35.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/roadwithlines1_Mat.uasset'
+[2019.11.22-17.23.10:299][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/roadwolines" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/roadwolines.uasset" SILENT=true
+[2019.11.22-17.23.10:340][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/roadwolines3675766347BEBD1D1BAE8C8397E55A5C.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/roadwolines.uasset'
+[2019.11.22-17.23.10:353][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/roadwolines" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/roadwolines.uasset" SILENT=true
+[2019.11.22-17.23.10:388][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/roadwolines63EA090F47A452CD145EF5B63CC2C8FB.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/roadwolines.uasset'
+[2019.11.22-17.23.10:421][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/roadwolines17D015A184C875F5141DAF9B1F94CDB9B.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/roadwolines1.uasset'
+[2019.11.22-17.23.10:536][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/roadwolines1_Mat2048C0314A304F75E982379130FC93E0.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/roadwolines1_Mat.uasset'
+[2019.11.22-17.23.10:595][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/rock" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/rock.uasset" SILENT=true
+[2019.11.22-17.23.10:657][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/rock679C016E4FA7BB510032BA802DBA318C.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/rock.uasset'
+[2019.11.22-17.23.10:669][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/rock" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/rock.uasset" SILENT=true
+[2019.11.22-17.23.10:692][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/rock3AAC94CE4EE8806613485995413B24C3.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/rock.uasset'
+[2019.11.22-17.23.10:703][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/rock1" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/rock1.uasset" SILENT=true
+[2019.11.22-17.23.10:720][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/rock1839AC0C843502353062C9788515EA33A.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/rock1.uasset'
+[2019.11.22-17.23.10:781][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/rock1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/rock1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.10:829][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/rock1_Mat89805DE84B14F98658EF8BB7A8D0F0E4.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/rock1_Mat.uasset'
+[2019.11.22-17.23.10:845][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/rock1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/rock1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.10:894][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/rock1_Mat29B6418A435984A0D6F49FAB0E177E44.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/rock1_Mat.uasset'
+[2019.11.22-17.23.10:938][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/tree" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/tree.uasset" SILENT=true
+[2019.11.22-17.23.10:971][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/tree3548E4AE428E58B6757FE3BDF2E3BC74.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/tree.uasset'
+[2019.11.22-17.23.10:979][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/tree" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/tree.uasset" SILENT=true
+[2019.11.22-17.23.11:007][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/tree4FC9C553476990B277917CAB8C4CD059.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/tree.uasset'
+[2019.11.22-17.23.11:018][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/tree1" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/tree1.uasset" SILENT=true
+[2019.11.22-17.23.11:031][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/tree14EFA501B473C98389D90A5AE2CEF7BE2.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/tree1.uasset'
+[2019.11.22-17.23.11:085][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/tree1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/tree1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.11:148][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/tree1_Mat8647614C46E52D54511B59B8FD2D4DD7.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/tree1_Mat.uasset'
+[2019.11.22-17.23.11:167][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/tree1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/tree1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.11:218][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/tree1_MatE3E6D2554214B0F41EB836B4787B8234.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/tree1_Mat.uasset'
+[2019.11.22-17.23.11:291][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/water" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/water.uasset" SILENT=true
+[2019.11.22-17.23.11:342][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/water6054BDA24E525166C3363180D38005EE.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/water.uasset'
+[2019.11.22-17.23.11:359][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/water" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/water.uasset" SILENT=true
+[2019.11.22-17.23.11:411][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/water290695DB4563AFE2BF48349511CF0E51.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/water.uasset'
+[2019.11.22-17.23.11:433][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/water1" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/water1.uasset" SILENT=true
+[2019.11.22-17.23.11:507][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/water1E844A28E4CBE544ED9900EBFC72EC908.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/water1.uasset'
+[2019.11.22-17.23.11:568][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/MODELS/water1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/water1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.11:612][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/water1_Mat9E23376B4A71D68A0A2ABCA75FEED9DE.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/MODELS/water1_Mat.uasset'
+[2019.11.22-17.23.11:625][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/water1_Mat" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/water1_Mat.uasset" SILENT=true
+[2019.11.22-17.23.11:668][246]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/water1_MatAD2FE3F84CD1BA828CEEB39483FA13A3.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/water1_Mat.uasset'
+[2019.11.22-17.23.11:705][246]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.23.12:815][246]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-17.23.12:856][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.11.22-17.23.12:879][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.22-17.23.12:901][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.22-17.23.12:924][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.11.22-17.23.12:945][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.11.22-17.23.12:965][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.22-17.23.12:986][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.22-17.23.13:005][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.22-17.23.13:028][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.11.22-17.23.13:053][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.22-17.23.13:074][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.11.22-17.23.13:100][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.22-17.23.13:119][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.11.22-17.23.13:143][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.11.22-17.23.13:164][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.22-17.23.13:187][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.22-17.23.13:211][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.11.22-17.23.13:233][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.22-17.23.14:429][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-17.23.33:733][604]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.22-17.23.43:631][876]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/crossyroad/Blueprints/Chicken.Chicken
+[2019.11.22-17.23.44:552][876]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 121 classes and 0 folders.
+[2019.11.22-17.23.56:910][ 40]LogSlate: Took 0.034870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.22-17.26.31:038][735]LogUObjectHash: Compacting FUObjectHashTables data took  25.25ms
+[2019.11.22-17.26.31:616][735]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/CrossyRoad_Auto1DAEE152B4ED6ED230459D6968D1527AB.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Autosaves/Game/crossyroad/CrossyRoad_Auto1.umap'
+[2019.11.22-17.26.31:627][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/crossyroad/CrossyRoad' took 0.775
+[2019.11.22-17.26.31:627][735]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.775
+[2019.11.22-17.26.31:633][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/crossyroad/Blueprints/Chicken] ([1] browsable assets)...
+[2019.11.22-17.26.31:633][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/crossyroad/Blueprints/Chicken]
+[2019.11.22-17.26.31:690][735]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Chicken_Auto1529F5EB544068895FB7F24B7973AF29F.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Autosaves/Game/crossyroad/Blueprints/Chicken_Auto1.uasset'
+[2019.11.22-17.26.31:694][735]LogFileHelpers: Auto-saving content packages took 0.065
+[2019.11.22-17.35.14:962][404]LogSlate: Window 'Chicken' being destroyed
+[2019.11.22-17.35.15:009][404]LogSlate: Window 'Chicken' being destroyed
+[2019.11.22-17.35.15:093][404]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-17.35.18:015][480]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/crossyroad/Blueprints/Chicken.Chicken
+[2019.11.22-17.40.41:828][626]LogSlate: Window 'Chicken' being destroyed
+[2019.11.22-17.40.41:877][626]LogSlate: Window 'Chicken' being destroyed
+[2019.11.22-17.40.41:974][626]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-17.40.51:832][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.11.22-17.40.51:835][881]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.BP_Chicken:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/crossyroad/Blueprints/Chicken.PackageMetaData'
+[2019.11.22-17.40.51:835][881]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.SKEL_BP_Chicken_C' ref from Metadata '/Game/crossyroad/Blueprints/Chicken.PackageMetaData'
+[2019.11.22-17.40.51:835][881]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.BP_Chicken_C' ref from Metadata '/Game/crossyroad/Blueprints/Chicken.PackageMetaData'
+[2019.11.22-17.40.51:835][881]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.BP_Chicken:EventGraph.K2Node_Event_0' ref from Metadata '/Game/crossyroad/Blueprints/Chicken.PackageMetaData'
+[2019.11.22-17.40.51:836][881]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.BP_Chicken:EventGraph.K2Node_Event_1' ref from Metadata '/Game/crossyroad/Blueprints/Chicken.PackageMetaData'
+[2019.11.22-17.40.51:836][881]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.BP_Chicken:EventGraph.K2Node_Event_2' ref from Metadata '/Game/crossyroad/Blueprints/Chicken.PackageMetaData'
+[2019.11.22-17.40.51:889][881]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/BP_Chicken64A0AA464A9BA5477C737CB3089D9667.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Blueprints/BP_Chicken.uasset'
+[2019.11.22-17.40.52:155][881]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2019.11.22-17.40.52:197][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.11.22-17.40.52:231][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.11.22-17.41.19:960][619]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.11.22-17.41.20:248][619]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/CrossyRoad_Auto2AB1E19334AFDD7A137B2ACB20E68E2FB.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/Autosaves/Game/crossyroad/CrossyRoad_Auto2.umap'
+[2019.11.22-17.41.20:253][619]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/crossyroad/CrossyRoad' took 0.363
+[2019.11.22-17.41.20:253][619]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.363
+[2019.11.22-17.47.59:652][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.22-17.48.00:776][924]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.22-17.48.02:631][973]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.22-18.00.11:293][247]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.22-18.03.42:147][889]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.22-18.03.49:503][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2019.11.22-18.03.51:194][ 84]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.22-18.03.51:409][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.11.22-18.03.51:450][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.11.22-18.03.51:488][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.11.22-18.04.02:053][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.11.22-18.04.02:054][371]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.BP_Chicken:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/crossyroad/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.22-18.04.02:055][371]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.SKEL_BP_Chicken_C' ref from Metadata '/Game/crossyroad/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.22-18.04.02:055][371]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.BP_Chicken_C' ref from Metadata '/Game/crossyroad/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.22-18.04.02:055][371]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.BP_Chicken:EventGraph.K2Node_Event_0' ref from Metadata '/Game/crossyroad/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.22-18.04.02:055][371]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.BP_Chicken:EventGraph.K2Node_Event_1' ref from Metadata '/Game/crossyroad/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.22-18.04.02:055][371]LogMetaData: Removing '/Game/crossyroad/Blueprints/BP_Chicken.BP_Chicken:EventGraph.K2Node_Event_2' ref from Metadata '/Game/crossyroad/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.22-18.04.02:108][371]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/BP_Chicken7076AD5C4B19E3D36DEF1BAD84593A3F.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Blueprints/BP_Chicken.uasset'
+[2019.11.22-18.04.02:315][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.11.22-18.04.02:356][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.11.22-18.04.02:388][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.11.22-18.04.13:292][474]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.22-18.05.12:238][960]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.22-18.05.26:824][293]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.22-18.05.55:097][973]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.22-18.06.11:818][344]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.22-18.06.59:784][270]LogUObjectHash: Compacting FUObjectHashTables data took   8.67ms
+[2019.11.22-18.07.00:249][270]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/CrossyRoadDAD52986400A811CD36D7FA018EF843A.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/CrossyRoad.umap'
+[2019.11.22-18.07.00:321][270]LogFileHelpers: Saving map 'CrossyRoad' took 0.615
+[2019.11.22-18.07.58:984][851]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2019.11.22-18.08.01:578][851]LogSlate: Window 'Save Content' being destroyed
+[2019.11.22-18.08.01:724][851]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/BP_EagleCB43BEAB45E02950F583679773FE968B.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Blueprints/BP_Eagle.uasset'
+[2019.11.22-18.08.01:761][851]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/BP_LilyPadD7192085440C54F8B8DAF4B312224025.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Blueprints/BP_LilyPad.uasset'
+[2019.11.22-18.08.01:777][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crossyroad/Blueprints/BP_Log" FILE="../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Blueprints/BP_Log.uasset" SILENT=true
+[2019.11.22-18.08.01:807][851]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/BP_Log98042084439D1920952354AAD023FD26.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Blueprints/BP_Log.uasset'
+[2019.11.22-18.08.01:841][851]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/BP_Train38B7A6B543D3CC1F03A2E7916D7DC845.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Blueprints/BP_Train.uasset'
+[2019.11.22-18.08.01:885][851]LogSavePackage: Moving '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Saved/BP_Truck1E5A425846D7D35012B2B08193A1E5D8.tmp' to '../../../../../../Users/oliva/Desktop/game design/unreal/BananaTurntable/Content/crossyroad/Blueprints/BP_Truck.uasset'
+[2019.11.22-18.08.02:074][851]LogSlate: Window 'BananaTurntable - Unreal Editor' being destroyed
+[2019.11.22-18.08.02:578][852]Cmd: QUIT_EDITOR
+[2019.11.22-18.08.02:689][852]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.22-18.08.02:823][852]LogExit: Preparing to exit.
+[2019.11.22-18.08.02:965][852]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-18.08.02:968][852]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-18.08.03:406][852]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.22-18.08.03:437][852]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.22-18.08.03:437][852]LogExit: Editor shut down
+[2019.11.22-18.08.03:439][852]LogExit: Transaction tracking system shut down
+[2019.11.22-18.08.04:269][852]LogExit: Object subsystem successfully closed.
+[2019.11.22-18.08.04:303][852]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.22-18.08.04:445][852]LogModuleManager: Shutting down and abandoning module BlueprintGraph (680)
+[2019.11.22-18.08.04:445][852]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (678)
+[2019.11.22-18.08.04:445][852]LogModuleManager: Shutting down and abandoning module MeshBuilder (676)
+[2019.11.22-18.08.04:445][852]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (674)
+[2019.11.22-18.08.04:445][852]LogModuleManager: Shutting down and abandoning module Voice (672)
+[2019.11.22-18.08.04:446][852]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.11.22-18.08.04:446][852]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2019.11.22-18.08.04:446][852]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.11.22-18.08.04:462][852]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.11.22-18.08.04:462][852]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.11.22-18.08.04:462][852]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.11.22-18.08.04:464][852]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (658)
+[2019.11.22-18.08.04:465][852]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.11.22-18.08.04:467][852]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.11.22-18.08.04:467][852]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.11.22-18.08.04:469][852]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.11.22-18.08.04:474][852]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.11.22-18.08.04:474][852]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.11.22-18.08.04:474][852]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.11.22-18.08.04:474][852]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.11.22-18.08.04:475][852]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.11.22-18.08.04:475][852]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.11.22-18.08.04:475][852]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.11.22-18.08.04:477][852]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.11.22-18.08.04:477][852]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.11.22-18.08.04:478][852]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.11.22-18.08.04:478][852]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.11.22-18.08.04:479][852]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.11.22-18.08.04:479][852]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.11.22-18.08.04:484][852]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.11.22-18.08.04:484][852]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.11.22-18.08.04:484][852]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.11.22-18.08.04:485][852]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.11.22-18.08.04:486][852]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.11.22-18.08.04:486][852]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.11.22-18.08.04:486][852]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.11.22-18.08.04:486][852]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.11.22-18.08.04:486][852]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.11.22-18.08.04:488][852]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.11.22-18.08.04:492][852]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.11.22-18.08.04:492][852]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.11.22-18.08.04:492][852]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.11.22-18.08.04:492][852]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.11.22-18.08.04:492][852]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.11.22-18.08.04:493][852]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.11.22-18.08.04:495][852]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.11.22-18.08.04:496][852]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.11.22-18.08.04:496][852]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.11.22-18.08.04:498][852]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.11.22-18.08.04:500][852]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.11.22-18.08.04:502][852]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.11.22-18.08.04:503][852]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.11.22-18.08.04:504][852]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.11.22-18.08.04:504][852]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.11.22-18.08.04:505][852]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.11.22-18.08.04:505][852]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.11.22-18.08.04:505][852]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.11.22-18.08.06:342][852]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.11.22-18.08.06:342][852]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.11.22-18.08.06:342][852]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.11.22-18.08.06:342][852]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.11.22-18.08.06:342][852]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.11.22-18.08.06:342][852]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.11.22-18.08.06:346][852]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.11.22-18.08.06:348][852]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.11.22-18.08.06:349][852]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.11.22-18.08.06:350][852]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.11.22-18.08.06:350][852]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.11.22-18.08.06:351][852]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.11.22-18.08.06:352][852]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.11.22-18.08.06:353][852]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.11.22-18.08.06:353][852]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.11.22-18.08.06:354][852]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.11.22-18.08.06:355][852]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.11.22-18.08.06:356][852]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.11.22-18.08.06:357][852]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.11.22-18.08.06:358][852]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.11.22-18.08.06:359][852]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.11.22-18.08.06:359][852]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.11.22-18.08.06:361][852]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.11.22-18.08.06:408][852]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.11.22-18.08.06:409][852]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.11.22-18.08.06:411][852]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.11.22-18.08.06:414][852]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.11.22-18.08.06:414][852]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.11.22-18.08.06:415][852]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.11.22-18.08.06:415][852]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.11.22-18.08.06:416][852]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.11.22-18.08.06:418][852]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.11.22-18.08.06:418][852]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.11.22-18.08.06:418][852]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.11.22-18.08.06:433][852]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.11.22-18.08.06:433][852]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.11.22-18.08.06:434][852]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.11.22-18.08.06:434][852]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.11.22-18.08.06:440][852]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.11.22-18.08.06:440][852]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.11.22-18.08.06:441][852]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.11.22-18.08.06:443][852]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.11.22-18.08.06:445][852]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.11.22-18.08.06:446][852]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.11.22-18.08.06:446][852]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.11.22-18.08.06:448][852]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.11.22-18.08.06:448][852]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.11.22-18.08.06:448][852]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.11.22-18.08.06:449][852]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.11.22-18.08.06:449][852]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.11.22-18.08.06:450][852]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.11.22-18.08.06:450][852]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.11.22-18.08.06:450][852]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.11.22-18.08.06:450][852]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.11.22-18.08.06:450][852]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.11.22-18.08.06:451][852]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.11.22-18.08.06:451][852]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.11.22-18.08.06:452][852]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.11.22-18.08.06:452][852]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.11.22-18.08.06:452][852]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.11.22-18.08.06:470][852]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.11.22-18.08.06:566][852]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.11.22-18.08.06:568][852]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.11.22-18.08.06:568][852]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.11.22-18.08.06:568][852]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.11.22-18.08.06:568][852]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.11.22-18.08.06:569][852]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.11.22-18.08.06:569][852]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.11.22-18.08.06:569][852]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.11.22-18.08.06:569][852]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.11.22-18.08.06:570][852]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.11.22-18.08.06:570][852]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.11.22-18.08.06:570][852]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.11.22-18.08.06:570][852]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.11.22-18.08.06:570][852]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.11.22-18.08.06:570][852]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.11.22-18.08.06:570][852]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.11.22-18.08.06:570][852]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.11.22-18.08.06:571][852]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.11.22-18.08.06:574][852]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.11.22-18.08.06:575][852]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.11.22-18.08.06:575][852]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.11.22-18.08.06:575][852]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.11.22-18.08.06:575][852]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.11.22-18.08.06:576][852]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.11.22-18.08.06:576][852]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.11.22-18.08.06:576][852]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.11.22-18.08.06:576][852]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.11.22-18.08.06:576][852]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.11.22-18.08.06:576][852]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.11.22-18.08.06:576][852]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.11.22-18.08.06:577][852]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.11.22-18.08.06:577][852]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.11.22-18.08.06:578][852]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.11.22-18.08.06:578][852]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.11.22-18.08.06:578][852]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.11.22-18.08.06:578][852]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.11.22-18.08.06:579][852]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.11.22-18.08.06:582][852]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.11.22-18.08.06:583][852]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.11.22-18.08.06:584][852]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.11.22-18.08.06:585][852]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.11.22-18.08.06:588][852]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.11.22-18.08.06:589][852]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.11.22-18.08.06:589][852]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.11.22-18.08.06:591][852]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.11.22-18.08.06:591][852]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.11.22-18.08.06:591][852]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.11.22-18.08.06:593][852]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.11.22-18.08.06:595][852]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.11.22-18.08.06:596][852]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.11.22-18.08.06:597][852]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.11.22-18.08.06:597][852]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.11.22-18.08.06:597][852]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.11.22-18.08.06:597][852]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.11.22-18.08.06:597][852]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.11.22-18.08.06:597][852]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.11.22-18.08.06:598][852]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.11.22-18.08.06:598][852]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.11.22-18.08.06:601][852]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.11.22-18.08.06:601][852]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.11.22-18.08.06:601][852]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.11.22-18.08.06:601][852]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.11.22-18.08.06:601][852]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.11.22-18.08.06:601][852]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.11.22-18.08.06:702][852]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.11.22-18.08.06:807][852]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.11.22-18.08.06:807][852]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.11.22-18.08.06:807][852]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.11.22-18.08.06:809][852]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.11.22-18.08.06:809][852]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.11.22-18.08.06:810][852]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.22-18.08.06:811][852]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.11.22-18.08.06:811][852]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.11.22-18.08.06:811][852]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.11.22-18.08.06:812][852]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.11.22-18.08.06:812][852]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.11.22-18.08.06:812][852]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.11.22-18.08.06:813][852]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.11.22-18.08.06:816][852]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.11.22-18.08.06:822][852]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.11.22-18.08.06:824][852]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.11.22-18.08.06:826][852]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.11.22-18.08.06:826][852]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.11.22-18.08.06:828][852]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.11.22-18.08.06:840][852]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.11.22-18.08.06:841][852]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.11.22-18.08.06:841][852]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.11.22-18.08.06:841][852]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.11.22-18.08.06:842][852]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.11.22-18.08.06:864][852]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.11.22-18.08.06:866][852]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.11.22-18.08.06:866][852]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.11.22-18.08.06:866][852]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.11.22-18.08.06:867][852]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.11.22-18.08.06:868][852]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.11.22-18.08.06:869][852]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.11.22-18.08.06:869][852]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.11.22-18.08.06:869][852]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.11.22-18.08.06:871][852]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.11.22-18.08.06:872][852]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.11.22-18.08.06:872][852]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.11.22-18.08.06:876][852]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.11.22-18.08.06:877][852]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.11.22-18.08.06:879][852]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.11.22-18.08.06:881][852]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.11.22-18.08.06:883][852]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.11.22-18.08.06:885][852]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.11.22-18.08.06:899][852]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.11.22-18.08.06:900][852]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.11.22-18.08.06:904][852]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.11.22-18.08.06:904][852]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.11.22-18.08.06:905][852]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.11.22-18.08.06:915][852]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.11.22-18.08.06:916][852]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.11.22-18.08.06:916][852]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.11.22-18.08.06:916][852]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.11.22-18.08.06:916][852]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.11.22-18.08.06:916][852]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.11.22-18.08.06:916][852]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.11.22-18.08.06:916][852]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.11.22-18.08.06:916][852]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.11.22-18.08.06:918][852]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.11.22-18.08.06:920][852]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.11.22-18.08.06:920][852]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.11.22-18.08.06:921][852]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.11.22-18.08.06:924][852]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.11.22-18.08.06:924][852]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.11.22-18.08.06:925][852]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.11.22-18.08.06:925][852]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.11.22-18.08.06:926][852]LogDerivedDataCache: Shutdown
+[2019.11.22-18.08.06:926][852]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.11.22-18.08.06:928][852]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.11.22-18.08.06:929][852]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.11.22-18.08.06:931][852]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.11.22-18.08.06:932][852]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.11.22-18.08.06:933][852]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.11.22-18.08.06:934][852]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.11.22-18.08.06:936][852]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.11.22-18.08.06:936][852]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.11.22-18.08.06:936][852]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.11.22-18.08.06:937][852]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.11.22-18.08.06:938][852]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.11.22-18.08.06:938][852]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.11.22-18.08.06:938][852]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.11.22-18.08.06:938][852]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.11.22-18.08.06:939][852]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.11.22-18.08.06:939][852]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.11.22-18.08.06:940][852]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.11.22-18.08.07:001][852]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.11.22-18.08.07:001][852]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.11.22-18.08.07:002][852]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.11.22-18.08.07:002][852]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.11.22-18.08.07:002][852]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.11.22-18.08.07:013][852]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.11.22-18.08.07:013][852]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.11.22-18.08.07:021][852]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.11.22-18.08.07:021][852]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.11.22-18.08.07:081][852]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.11.22-18.08.07:081][852]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.11.22-18.08.07:082][852]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.11.22-18.08.07:082][852]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.11.22-18.08.07:082][852]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.11.22-18.08.07:082][852]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.11.22-18.08.07:082][852]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.11.22-18.08.07:082][852]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.11.22-18.08.07:082][852]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.11.22-18.08.07:082][852]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.11.22-18.08.07:082][852]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.11.22-18.08.07:082][852]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.11.22-18.08.07:083][852]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.11.22-18.08.07:083][852]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.11.22-18.08.07:083][852]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.11.22-18.08.07:084][852]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.11.22-18.08.07:084][852]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.22-18.08.07:084][852]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.11.22-18.08.07:084][852]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.11.22-18.08.07:084][852]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.11.22-18.08.07:084][852]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.11.22-18.08.07:084][852]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.11.22-18.08.07:087][852]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.11.22-18.08.07:087][852]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.11.22-18.08.07:105][852]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.11.22-18.08.07:105][852]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.22-18.08.07:105][852]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC97898A-449D-7373-F898-30BE4BF4E5A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=c9aad433405369170c2ea1a477951516%7Cbe5be11e518d43ac895f587ad6d590fb%7C23073d37-693b-447a-b5b6-5998028b77d3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.22-18.08.07:134][852]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.11.22-18.08.07:142][852]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.11.22-18.08.07:147][852]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.11.22-18.08.07:149][852]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.11.22-18.08.07:150][852]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.11.22-18.08.07:151][852]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.11.22-18.08.07:151][852]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.11.22-18.08.07:151][852]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.11.22-18.08.07:151][852]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.22-18.08.07:152][852]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.22-18.08.07:152][852]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.22-18.08.07:154][852]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.22-18.08.07:159][852]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.22-18.08.07:159][852]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.22-18.08.07:159][852]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.22-18.08.07:183][852]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.22-18.08.07:184][852]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.22-18.08.07:184][852]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.22-18.08.07:184][852]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.22-18.08.07:185][852]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.22-18.08.07:185][852]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.22-18.08.07:185][852]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.22-18.08.07:185][852]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.22-18.08.07:185][852]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.22-18.08.07:186][852]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.22-18.08.07:186][852]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.22-18.08.07:186][852]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.22-18.08.07:222][852]LogD3D11RHI: Shutdown
+[2019.11.22-18.08.07:223][852]LogD3D11RHI: CleanupD3DDevice
+[2019.11.22-18.08.07:242][852]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.22-18.08.07:244][852]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.22-18.08.07:245][852]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.22-18.08.07:338][852]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2019.11.22-18.08.07:976][852]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.22-18.08.07:988][852]LogExit: Exiting.
+[2019.11.22-18.08.08:041][852]Log file closed, 11/22/19 10:08:08
